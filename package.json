@@ -1,0 +1,24 @@
+{
+  "name": "entity-class-generator",
+  "version": "1.0.0",
+  "description": "Generate typescript classes from API endpoints that represent entities/models",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ysfiqbl/entity-class-generator.git"
+  },
+  "keywords": [
+    "typescript",
+    "class-generator",
+    "entity"
+  ],
+  "author": "Yusuf Iqbal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ysfiqbl/entity-class-generator/issues"
+  },
+  "homepage": "https://github.com/ysfiqbl/entity-class-generator#readme"
+}
