@@ -1,5 +1,5 @@
 # Entity Class Generator
-Recently I needed to create 20+ classes to represent entities returned from an API endpoint. Each class having about 40 to 50 or more attributes. So rather than creating all these classes manually I wrote this little application to generate the classes for me. 
+Recently I needed to create 20+ classes to represent entities returned from an API endpoint. Each class having about 40 to 50 or more attributes. So rather than creating all these classes manually I wrote this little application to generate the classes for me. The classes are generated in TypeScript
 
 ## Prequisites
 - Nodejs (tested on 6.x)
