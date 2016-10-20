@@ -75,7 +75,7 @@ function getEntities(entity) {
  * Create a .ts class off the entity blueprint recieved from the API call
  */
 function createClassFile(obj, path) {
-	var className = path.charAt(0).toUpperCase() + path.slice(1);
+	var className = path.charAt(0).toUpperCase() + path.slice(1,path.length-1);
 	var type;
 	var camelCasedKey = ''
 	var classContent = `export class ${className} {`;
